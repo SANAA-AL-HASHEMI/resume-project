@@ -1,2 +1,0 @@
-# resume-project
-resume-project
